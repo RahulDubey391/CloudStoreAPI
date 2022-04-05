@@ -1,5 +1,5 @@
 class Config:
-    UPLOAD_BUCKET_NAME = 'textractom-files'
-    DOWNLOAD_BUCKET_NAME = 'textractom-files'
-    API_SECRET_KEY = 'hashingthecode'
+    UPLOAD_BUCKET_NAME = ''
+    DOWNLOAD_BUCKET_NAME = ''
+    API_SECRET_KEY = ''
                               
